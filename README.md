@@ -10,6 +10,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=latchmihay&show_icons=true&theme=react&count_private=true&hide=stars" />
 </a>
 
+<br></br>
 
 ![](https://komarev.com/ghpvc/?username=latchmihay&color=green)
 
