@@ -2,10 +2,12 @@
 
 - 📫 How to reach me: latch@mihay.net
 
-<a href="https://github-readme-stats.vercel.app/api?username=latchmihay&show_icons=true&theme=react&count_private=true&hide=stars">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=latchmihay&show_icons=true&theme=react&count_private=true&hide=stars" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=latchmihay&layout=compact">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=latchmihay&layout=compact" />
 </a>
-
+<a href="https://github-readme-stats.vercel.app/api?username=latchmihay&show_icons=true&theme=react&count_private=true&hide=stars">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=latchmihay&show_icons=true&theme=react&count_private=true&hide=stars" />
+</a>
 
 ![](https://komarev.com/ghpvc/?username=latchmihay&color=green)
 
